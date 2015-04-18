@@ -29,4 +29,5 @@ group :test, :development do
   gem 'capybara'
   gem 'selenium-webdriver'
   gem 'database_cleaner'
+  gem 'dotenv-rails'
 end
