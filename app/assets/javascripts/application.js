@@ -13,6 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require angular
+//= require spin.js/spin
+//= require angular-spinner
 //= require angular-route
 //= require angular-resource
 //= require_tree .

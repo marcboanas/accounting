@@ -10,6 +10,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'foreman'
 gem 'bower-rails'
+gem 'omniauth-google-oauth2'
+gem 'spinjs-rails'
 
 group :production, :staging do
   gem 'rails_12factor'
